@@ -4,6 +4,7 @@
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
         "c:\\Users\\andras\\Library\\JDBC\\mariadb-java-client-3.0.7.jar",
-        "e:\\Zentai\\mariadb-java-client-3.0.7.jar"
+        "e:\\Zentai\\mariadb-java-client-3.0.7.jar",
+        "c:\\Users\\diak\\Downloads\\sqlite-jdbc-3.39.3.0.jar"
     ]
 }
